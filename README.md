@@ -27,7 +27,7 @@ The application supports the following functionalities:
  ### NAME: M.H.F.HAFSA
  ### REG.NO: KEG/IT/2021/F/0074
 
-In our library member management system, I've developed the 'insertion' functionality. This feature enables users to seamlessly add new members to the system, thereby enhancing its functionality and usability. I have uploaded my work, including the code and functionalities, via the link below. Thank you.
+In our library member management system, I've developed the 'book insertion' functionality and few button actions releted to book insertion. This feature enables users to seamlessly add new members to the system, thereby enhancing its functionality and usability. I have uploaded my work, including the code and functionalities, via the link below. Thank you.
 
 
 
