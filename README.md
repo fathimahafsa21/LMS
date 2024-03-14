@@ -1,4 +1,4 @@
-# lib-member-manage-system
+# Library Member Management System
 
 
 This project is a Java application designed to manage member information for a library.
