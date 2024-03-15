@@ -29,7 +29,7 @@ The application supports the following functionalities:
 
 In our library member management system, I've developed the 'book insertion' functionality and few button actions. This feature enables users to seamlessly add new members to the system, thereby enhancing its functionality and usability.
 
-### Description of Insertion Functionality
+### Description of Functions
 
 It is like clear/reset button. When press it. It clears any text or data you've entered and it allows you to type in a special box again and it changes the label on another button to say "Save" again.
 
